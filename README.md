@@ -1,2 +1,2 @@
-# Image-Compression
+# image-compression
 Image Compression using Huffman's lossless greedy algorithm
